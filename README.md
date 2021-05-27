@@ -5,7 +5,7 @@
 var Strygth = {
   SobreMim : {
    nome : 'Matheus Pereira',
-   idade: 25
+   idade: 25,
    atuacao : 'Full Stack',
    trabalho  : ['FluxSoftwares','Freelancer'],
    local : 'Caratinga',
