@@ -2,8 +2,8 @@
 <h3 align="center">Sou programador de Hobby e Profissão, Desenvolvedor FullStack e entusiasta pelo JavaScript .</h3>
 
 ```js
-var Strygth = {
-  SobreMim : {
+var strygth = {
+  sobreMim : {
    nome : 'Matheus Pereira',
    idade: 25,
    atuacao : 'Full Stack',
@@ -15,10 +15,10 @@ var Strygth = {
     'WhatsApp'=>'031 98576 8991'
    ]
   },
-  Skills : {
+  skills : {
    linguagens : ['JavaScript <3','PHP'],
    frameworks : ['React','Node','Laravel','WordPress'],
-   banco_de_dados : ['MySQL','MariaDB']
+   bancoDeDados : ['MySQL','MariaDB']
   }
 }
 ```
