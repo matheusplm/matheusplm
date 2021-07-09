@@ -7,7 +7,13 @@ var strygth = {
    nome : 'Matheus Pereira',
    idade: 25,
    atuacao : 'Full Stack',
-   trabalho  : ['FluxSoftwares','Freelancer'],
+   trabalho  : ['Vetta','Freelancer'],
+   experiência : [
+    {
+     local: 'FluxSoftwares',
+     duracao: '1 ano'
+    },
+   ],
    local : 'Caratinga',
    hobby : ['Programar', 'Jogar'],
    contato : [
