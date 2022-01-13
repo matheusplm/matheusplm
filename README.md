@@ -8,14 +8,14 @@ var strygth = {
    idade: 25,
    formacao: 'Bacharel em Ciências da Computação',
    atuacao : 'Full Stack',
-   trabalho  : ['Vetta'],
+   trabalho  : ['Vetta - Dev FullStack'],
    experiência : [
     {
-     local: 'FluxSoftwares',
+     local: 'FluxSoftwares - Dev',
      duracao: '1 ano'
     },
     {
-     local: 'Freelancer',
+     local: 'Freelancer - Dev FullStack',
      duracao: '1 ano'
     },
    ],
