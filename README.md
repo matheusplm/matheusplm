@@ -1,16 +1,22 @@
 <h1 align="center">Saudações, bem vindo ao meu GitHub</h1>
 <h3 align="center">Sou programador de Hobby e Profissão, Desenvolvedor FullStack e entusiasta pelo JavaScript .</h3>
+[![Contributors][contributors-shield]][contributors-url]
 
 ```js
 var strygth = {
   sobreMim : {
    nome : 'Matheus Pereira',
    idade: 25,
+   formacao: 'Bacharel em Ciências da Computação',
    atuacao : 'Full Stack',
-   trabalho  : ['Vetta','Freelancer'],
+   trabalho  : ['Vetta'],
    experiência : [
     {
      local: 'FluxSoftwares',
+     duracao: '1 ano'
+    },
+    {
+     local: 'Freelancer',
      duracao: '1 ano'
     },
    ],
@@ -22,9 +28,9 @@ var strygth = {
    ]
   },
   skills : {
-   linguagens : ['JavaScript <3','PHP'],
-   frameworks : ['React','Node','Laravel','WordPress'],
-   bancoDeDados : ['MySQL','MariaDB']
+   linguagens : ['JavaScript <3','PHP',C#],
+   frameworks : ['React','Node','Laravel','WordPress','.NET'],
+   bancoDeDados : ['MySQL','MariaDB','SQL']
   }
 }
 ```
