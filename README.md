@@ -1,6 +1,5 @@
 <h1 align="center">Saudações, bem vindo ao meu GitHub</h1>
 <h3 align="center">Sou programador de Hobby e Profissão, Desenvolvedor FullStack e entusiasta pelo JavaScript .</h3>
-[![Contributors][contributors-shield]][contributors-url]
 
 ```js
 var strygth = {
