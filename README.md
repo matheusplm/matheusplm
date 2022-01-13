@@ -27,7 +27,7 @@ var strygth = {
    ]
   },
   skills : {
-   linguagens : ['JavaScript <3','PHP',C#],
+   linguagens : ['JavaScript <3','PHP','C#'],
    frameworks : ['React','Node','Laravel','WordPress','.NET'],
    bancoDeDados : ['MySQL','MariaDB','SQL']
   }
