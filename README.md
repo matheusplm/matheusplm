@@ -1,35 +1,12 @@
-<h1 align="center">Saudações, bem vindo ao meu GitHub</h1>
-<h3 align="center">Sou programador de Hobby e Profissão, Desenvolvedor FullStack e entusiasta pelo JavaScripta .</h3>
-
-```js
-var strygth = {
-  sobreMim : {
-   nome : 'Matheus Pereira',
-   idade: 25,
-   formacao: 'Bacharel em Ciências da Computação',
-   atuacao : 'Full Stack',
-   trabalho  : ['Vetta - Dev FullStack'],
-   experiência : [
-    {
-     local: 'FluxSoftwares - Dev',
-     duracao: '1 ano'
-    },
-    {
-     local: 'Freelancer - Dev FullStack',
-     duracao: '1 ano'
-    },
-   ],
-   local : 'Caratinga',
-   hobby : ['Programar', 'Jogar'],
-   contato : [
-    'linkedin'=>'https://www.linkedin.com/in/matheus-pereira-lopes/',
-    'WhatsApp'=>'031 98576 8991'
-   ]
-  },
-  skills : {
-   linguagens : ['JavaScript <3','PHP','C#'],
-   frameworks : ['React','Node','Laravel','WordPress','.NET'],
-   bancoDeDados : ['MySQL','MariaDB','SQL']
-  }
-}
-```
+## Stack
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
