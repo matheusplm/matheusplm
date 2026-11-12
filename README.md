@@ -39,6 +39,8 @@
 
 <img src="assets/ailab.svg" width="100%" alt="Arquitetura multiagente com orquestrador e agentes em containers Docker; revisão de PR com IA; RAG com pgvector; chatbots generativos; automação documental com DocuSign e notas fiscais">
 
+<img src="assets/rag.svg" width="100%" alt="Pipeline de RAG completo: ingestão com chunking, embeddings e pgvector; recuperação com guardrail de entrada, busca vetorial e re-ranking; geração com guardrail de saída, citações e LLM Evals">
+
 <br/><br/>
 
 <picture>
