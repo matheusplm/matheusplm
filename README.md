@@ -1,95 +1,100 @@
-<div align="center">
+<h1 align="center">Matheus Pereira Lopes de Morais</h1>
 
-# Matheus Pereira Lopes
+<p align="center">
+  <b>Senior AI Engineer @ Versatec</b> · <b>Founder @ ApotheoSys</b><br/>
+  LLMs (Large Language Models) · RAG (Retrieval-Augmented Generation) · Agentes de IA · MCP (Model Context Protocol)<br/>
+  Python · Node.js · TypeScript · React · AWS Serverless
+</p>
 
-**Desenvolvedor Full Stack** · Node.js · React · TypeScript · AWS Serverless
+<p align="center">
+  <img src="https://i.makeagif.com/media/1-13-2017/zOfbqD.gif" width="100" alt="Macaquinho programando e se desesperando"/>
+</p>
 
-Sete anos transformando processos manuais em sistemas que funcionam.<br>
-Minas Gerais, Brasil
-
-<img src="https://i.makeagif.com/media/1-13-2017/zOfbqD.gif" width="100" alt="Macaquinho programando e se desesperando">
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-pereira-lopes/)
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-111111?style=flat-square&logo=vercel&logoColor=white)](https://matheusplm-portfolio.vercel.app/)
-[![Potinho Digital](https://img.shields.io/badge/Potinho%20Digital-E8A0BF?style=flat-square)](https://potinhodigital.com.br)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:matheusplmorais@gmail.com)
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/matheus-pereira-lopes/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://matheusplm-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"/></a>
+  <a href="https://www.potinhodigital.com.br/"><img src="https://img.shields.io/badge/Potinho_Digital-no_ar-F59E0B?style=for-the-badge" alt="Potinho Digital"/></a>
+  <a href="mailto:matheusplmorais@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 ---
 
 ## Sobre
 
-Construo sistemas corporativos e produtos digitais de ponta a ponta, do modelo de dados à interface. Meu centro de gravidade hoje é Node.js, React e TypeScript, com AWS serverless e Python por perto, e também trabalho com .NET quando o projeto pede. Escrevo código pensando em quem vai mantê-lo depois de mim.
+Engenheiro de software full stack com 7 anos de estrada, hoje focado em **levar IA para produção**. Antes da IA, a base foi sistema crítico rodando de verdade: venda internacional de ingressos com alto volume de transações, automação de processos corporativos e design system compartilhado entre produtos.
 
-## Foco atual
+Para mim, IA não é uma camada a mais no produto: é engenharia de software aplicada a novas formas de interação, automação e decisão. Por isso trabalho com revisão criteriosa, segurança e responsabilidade sobre o que vai para produção, e escrevo código que o próximo dev vai manter sem dor de cabeça.
+
+## Agora
 
 | Frente | O que estou fazendo |
-| --- | --- |
-| **Vetta** | Plataforma de automação de processos, design system em React e integrações corporativas |
-| **Potinho Digital** | Produto próprio, idealizado e construído sozinho, com React, Node.js e AWS serverless com DynamoDB |
-| **IA no desenvolvimento** | Claude Code e Cursor fazem o trabalho pesado, e eu valido a arquitetura |
-| **Estudos** | Pós-graduação em Inteligência Artificial e Machine Learning na PUC Minas |
+|---|---|
+| **Versatec** · Senior AI Engineer | Arquitetura de soluções com IA generativa, orquestração de agentes com LangChain e LangGraph, pipelines de RAG, tool calling via MCP e LLM Evals (avaliação de modelos) com controle de custo e proteção contra prompt injection |
+| **ApotheoSys** · Founder | Minha marca de produtos digitais. Primeiro produto: o Potinho Digital |
+| **PUC Minas** | Pós-graduação em Inteligência Artificial e Machine Learning |
 
-## Como eu trabalho
+## O que já construí com IA
 
-- **IA como acelerador.** Delego a parte braçal para as ferramentas e fico com as decisões de arquitetura.
-- **Código legível.** Clean Code e SOLID no dia a dia, e DDD (Domain-Driven Design) com CQRS (Command Query Responsibility Segregation) quando o domínio justifica.
-- **Entrega automatizada.** Pipelines no Azure DevOps e GitLab, deploy com Docker e monitoramento com Prometheus e Grafana.
-- **Trabalho em time.** Code review, Scrum e Kanban, e requisitos levantados direto com quem usa o sistema.
+- **Arquitetura multiagente**: um orquestrador quebra a demanda e delega para agentes especialistas, cada pipeline isolada em container Docker e rodando em paralelo
+- **Agente de revisão de Pull Requests**: análise automática, validação e revisão de código por IA
+- **Pipelines de RAG** com embeddings e PostgreSQL + pgvector
+- **Chatbots com IA generativa**
+- **Automação documental**: contratos com assinatura via DocuSign e captura de notas fiscais com conciliação automática de pagamentos
 
-## Projetos
+## Projeto em destaque: [Potinho Digital](https://www.potinhodigital.com.br/)
+
+> Um álbum de bilhetes: você escreve as mensagens, separa em pacotinhos e a pessoa abre um por dia, colecionando cada bilhete com sua raridade, como figurinhas.
+
+Nasceu como presente de Dia dos Namorados para a minha esposa e virou o primeiro produto da ApotheoSys. Idealizei, arquitetei e mantenho sozinho, do primeiro commit ao deploy.
+
+- Arquitetura **multi-tenant serverless** em AWS Lambda + DynamoDB
+- Front-end em React/TypeScript na Vercel ([código do front](https://github.com/matheusplm/potinho-digital-front))
+- Autenticação OAuth, e-mails transacionais e notificações orientadas a eventos
+- CI/CD (Integração e Entrega Contínuas) com GitHub Actions e SEO (Search Engine Optimization) para aquisição orgânica
+
+## Outros trabalhos
 
 | Projeto | O que é | Stack |
-| --- | --- | --- |
-| [**Potinho Digital**](https://potinhodigital.com.br) | Álbum afetivo de bilhetinhos: em vez de figurinhas, você coleciona bilhetes de quem ama. Projeto solo, da ideia ao deploy | React, Node.js, AWS Lambda, DynamoDB |
-| **Design system** | Biblioteca de componentes React reutilizáveis que contribuo e mantenho na Vetta | React, TypeScript |
-| **Automação de processos** | Fluxos e formulários que substituem processos manuais em folha de pagamento, compras e viagens | Python, React, TypeScript, PostgreSQL |
-| **Gestão de contratos** | Integração com DocuSign que automatizou um processo 100% manual | .NET, DocuSign |
-| **E-commerce internacional serverless** | Backend e frontend de uma plataforma com milhares de transações diárias | AWS Lambda, Node.js, Next.js |
-| **Plataforma EAD Doctum** | Ambiente virtual usado por 15 mil alunos e mais de 500 professores | PHP, Moodle |
+|---|---|---|
+| Ticketing internacional serverless | MVP de venda de ingressos com assentos marcados e alto tráfego, da modelagem do banco ao suporte em produção, com milhares de transações diárias | AWS Lambda, Node.js, Next.js |
+| Automação de processos (BPMN) | Fluxos que substituem processos manuais de negócio, modelados em BPMN (Business Process Model and Notation) e orquestrados por pipelines em Python | Python, React, TypeScript |
+| Design system | Componentes React reutilizáveis compartilhados entre os produtos da empresa | React, TypeScript |
+| Modernização .NET | Migração de sistemas do .NET Core 3 ao .NET 8 e evolução de APIs em Node.js | .NET, Node.js, Docker |
+| Plataforma de e-sports | Organização de partidas competitivas com controle em tempo real, times, estatísticas e ranking | React, Node.js |
+| Plataforma EAD (Ensino a Distância) Doctum | Ambiente virtual para 15 mil alunos e mais de 500 professores, com integrações event-driven em AWS Lambda e Google Sheets API | PHP, JavaScript, AWS Lambda, GCP |
 
-> Projetos corporativos e de clientes são privados, então o código não está público.
+<sub>A maioria dos projetos corporativos e de clientes é privada, então o código não está público.</sub>
 
 ## Stack
 
-<div align="center">
-
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=flat-square&logo=docker&logoColor=white)
-
-</div>
-
 | Camada | Tecnologias |
-| --- | --- |
-| **Front-end** | React, Next.js, TypeScript, JavaScript, Styled Components, Ant Design, MUI |
-| **Back-end** | Node.js, Express, Python, .NET (C#), Entity Framework, Dapper, Sequelize |
-| **Dados** | PostgreSQL, SQL Server, DynamoDB, MySQL, MongoDB |
-| **Cloud e DevOps** | AWS (Lambda), Azure DevOps, GitLab, Docker, Keycloak, Grafana |
-| **IA** | Claude Code, Cursor |
+|---|---|
+| **IA** | LangChain, LangGraph, LlamaIndex, Semantic Kernel, MCP, RAG, pgvector, LLM Evals |
+| **Back-end** | Python, Node.js, TypeScript, Express, Fastify, .NET (C#) |
+| **Front-end** | React, Next.js, TypeScript, Styled Components, Ant Design, MUI |
+| **Dados** | PostgreSQL, DynamoDB, SQL Server, MySQL, MongoDB |
+| **Cloud e DevOps** | AWS (Lambda, DynamoDB), Vercel, Docker, GitHub Actions, Azure DevOps, GitLab, Prometheus, Grafana |
+| **Ferramentas de IA no dia a dia** | Claude Code, Cursor |
+
+## Certificações
+
+- **Claude 101** · Anthropic (Claude Academy) · 2026
+- **AWS Agentic AI Demonstrated** · Amazon Web Services · 2026
+- **AWS Serverless Demonstrated** · Amazon Web Services · 2026
+- **Pré-MBA em Inteligência Artificial para Negócios** · Saint Paul Escola de Negócios · 2025
 
 ## Trajetória
 
 | Período | Onde | Papel |
-| --- | --- | --- |
-| 2021 · atual | **Vetta** | Desenvolvedor Full Stack |
-| 2019 · atual | **Freelance** | Desenvolvedor Full Stack, mais de 20 projetos entregues |
-| 2020 · 2021 | **Flux Softwares** | Desenvolvedor Full Stack, plataforma EAD da Rede Doctum |
-| 2026 | **PUC Minas** | Pós-graduação em Inteligência Artificial e Machine Learning |
-| 2018 · 2021 | **Rede de Ensino Doctum** | Bacharelado em Ciência da Computação |
+|---|---|---|
+| 2026 · atual | Versatec | Senior AI Engineer |
+| 2026 · atual | ApotheoSys | Founder |
+| 2021 · 2026 | Vetta | Software Engineer (Júnior → Pleno → Software Engineer) |
+| 2019 · 2026 | Freelance | Full Stack Developer, mais de 20 projetos para clientes nacionais e internacionais |
+| 2020 · 2021 | Flux Softwares | Full Stack Developer, plataforma EAD da Rede Doctum |
+
+**Formação:** Pós-graduação em IA e Machine Learning (PUC Minas, em andamento) · Bacharelado em Ciência da Computação (Rede Doctum, 2018–2021), com TCC sobre algoritmos de IA em redes sociais e a formação de bolhas sociais.
 
 ---
 
-<div align="center">
-
-[matheusplmorais@gmail.com](mailto:matheusplmorais@gmail.com)
-
-</div>
+<p align="center"><sub>Minas Gerais, Brasil · Português nativo · Inglês intermediário</sub></p>
