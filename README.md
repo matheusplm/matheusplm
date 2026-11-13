@@ -37,9 +37,9 @@
   <img src="assets/h-ailab-light.svg" width="100%" alt="Laboratório de IA">
 </picture>
 
-<img src="assets/ailab.svg" width="100%" alt="Arquitetura multiagente com orquestrador e agentes em containers Docker; revisão de PR com IA; RAG com pgvector; chatbots generativos; automação documental com DocuSign e notas fiscais">
+<img src="assets/ailab-v2.svg" width="100%" alt="Arquitetura multiagente com orquestrador e agentes em containers Docker; revisão de PR com IA; RAG com pgvector; chatbots generativos; automação documental com DocuSign e notas fiscais">
 
-<img src="assets/rag-flow.svg" width="100%" alt="Pipeline de RAG completo: ingestão com chunking, embeddings e pgvector; recuperação com guardrail de entrada, busca vetorial e re-ranking; geração com guardrail de saída, citações e LLM Evals">
+<img src="assets/rag-flow-v2.svg" width="100%" alt="Pipeline de RAG completo: ingestão com chunking, embeddings e pgvector; recuperação com guardrail de entrada, busca vetorial e re-ranking; geração com guardrail de saída, citações e LLM Evals">
 
 <br/><br/>
 
